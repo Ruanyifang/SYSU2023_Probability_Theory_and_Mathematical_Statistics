@@ -1,0 +1,2 @@
+# SYSU2023_Probability_Theory_and_Mathematical_Statistics
+2023中山大学计算机学院概率论与数理统计课程资料
